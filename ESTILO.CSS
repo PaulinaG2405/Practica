@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(97, 160, 91);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Titulo-p{
+    background-color: #264d2b;
+    font: 1em sans-serif;
+    color: rgb(78, 0, 0);
+
+}
+.Titulo-s{
+    background-color: #284b2c;
+    color: rgb(94, 0, 0);
+}
+
+ul{
+    color: #421111;
+}
